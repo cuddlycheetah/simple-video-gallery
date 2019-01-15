@@ -1,7 +1,7 @@
 simple-video-gallery
 ====
 Directory Structure
-`
+```
     root/
         commit.sh
         index.php
@@ -14,5 +14,4 @@ Directory Structure
             
             Series_Name_S02_E01.mp4
             Series_Name_S02_E01.png
-`
-    
+```  
